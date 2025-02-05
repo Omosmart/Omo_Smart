@@ -1,3 +1,4 @@
+![PRISORIAL DASHBOARD 2017 2024 - Excel 05_02_2025 08_30_22](https://github.com/user-attachments/assets/fa3387b4-def1-4bdf-9a5e-caee8d41ce31)
 📊 [Project Title] - Excel Data Analysis
 📌 Overview
 This project analyzes an order dataset containing transactional details, including customer orders, sales figures, and shipment statuses. The objective is to clean, format, visualize, and create an interactive dashboard using Microsoft Excel for better business insights.
